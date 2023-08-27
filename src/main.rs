@@ -20,8 +20,6 @@ fn main() {
         println!("The next day after that will be {}", current_day);
         days_remaining -= 1;
 
-        
-
     }
 
 }
